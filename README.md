@@ -23,7 +23,7 @@ go run main.go update 1 "Buy groceries and cook dinner"
 # To delete a task
 go run maing.go delete 1
 
-# To mark a task as in progress/done/todo
+# To mark a task as in progress/done
 go run maing.go mark-in-progress 1
 go run maing.go mark-done 1
 
